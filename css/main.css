@@ -254,7 +254,7 @@ section {
 }
 
 .full-banner-image {
-    flex: 00 58.333333%;
+    flex: 0 0 58.333333%;
     background-image: url('.../img/vista.jpg');
     size: cover;
     position: top center;
@@ -262,7 +262,7 @@ section {
 }
 
 .full-banner-sidebar {
-    flex: 00 41.666667%;
+    flex: 0 0 41.666667%;
     background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
